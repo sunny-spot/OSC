@@ -16,7 +16,7 @@ from pythonosc import osc_message_builder
 
 
 if __name__ == "__main__":
-    IP_server = '192.168.86.33'
+    IP_server = '' # 送信先のIPアドレス
     PORT1 = 50001   # 推奨：49152~65535
     PORT2 = 50002   
 

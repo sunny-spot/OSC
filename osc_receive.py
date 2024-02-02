@@ -12,7 +12,7 @@ from pythonosc import udp_client
 from pythonosc import osc_message_builder
 from pythonosc.osc_message_builder import OscMessageBuilder
 
-IP_server = '192.168.86.33'
+IP_server = ''  # 受信側のIPアドレス
 PORT1 = 50001
 PORT2 = 50002
 
